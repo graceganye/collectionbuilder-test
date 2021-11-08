@@ -14,14 +14,11 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This demo collection features items from the Pepperdine University’s [Weisman Museum of Art Collection](https://cdm15730.contentdm.oclc.org/digital/collection/p15730coll35), and is built using [CollectionBuilder-CONTENTdm](https://github.com/CollectionBuilder/collectionbuilder-contentdm).
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. The demo collection features images, document pdfs, audio, and YouTube video items to demonstrate the range of possibilities using the CollectionBuilder visualizations.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+Items from this collection are digital captures of artwork from Pepperdine University’s Frederick R. Weisman Museum of Art. Visit the [Weisman Museum’s website](https://arts.pepperdine.edu/museum/) to learn more about the museum and their current offerings.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
