@@ -21,4 +21,4 @@ CollectionBuilder-CONTENTdm is a template for creating digital collection exhibi
 Items from this collection are digital captures of artwork from Pepperdine University’s Frederick R. Weisman Museum of Art. Visit the [Weisman Museum’s website](https://arts.pepperdine.edu/museum/) to learn more about the museum and their current offerings.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
