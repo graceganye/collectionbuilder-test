@@ -29,7 +29,7 @@ featured-locations-max: 3 #set number of top locations to display if auto genera
 #
 # FEATURED IMAGE ON About page - if left blank, CB will use image featured on the home page
 #use either an objectid (from an item in this collect), a relative location of an image in this repo, or a ful url to an image elsewhere
-about-featured-image: # https://cdil.lib.uidaho.edu/images/palouse_sm.jpg
+about-featured-image: https://pepperdine.contentdm.oclc.org/digital/api/singleitem/image/p15730coll35/6/default.jpg # https://cdil.lib.uidaho.edu/images/palouse_sm.jpg
 
 ############
 # BROWSE PAGE
