@@ -30,6 +30,11 @@ tagline: Digital Collection featuring pieces from the Weisman Museum of Art
 description: "A selection of digitized artwork from the Frederick R. Weisman Museum of Art at Pepperdine University"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Grace Ye
+# Organization branding
+organization-name: #"Digital Initiatives, University of Idaho Library"
+organization-link: #https://www.lib.uidaho.edu/digital/
+organization-logo-banner: #https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
+organization-logo-nav: #https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
 
 ##########
 # COLLECTION SETTINGS
